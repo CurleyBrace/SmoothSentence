@@ -1,0 +1,6 @@
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\Settings.job
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\SmoothSentence.exe
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\SmoothSentence.dll
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\SmoothSentence.deps.json
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\SmoothSentence.runtimeconfig.json
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\SmoothSentence.pdb

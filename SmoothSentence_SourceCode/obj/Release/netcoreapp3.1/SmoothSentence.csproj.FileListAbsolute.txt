@@ -1,0 +1,14 @@
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.exe
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\Settings.job
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.deps.json
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.runtimeconfig.json
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.runtimeconfig.dev.json
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.dll
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\bin\Release\netcoreapp3.1\SmoothSentence.pdb
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.csproj.AssemblyReference.cache
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.AssemblyInfoInputs.cache
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.AssemblyInfo.cs
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.dll
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.pdb
+C:\Users\Tommy\OneDrive\Documents\codingChallenges\SmoothSentence\obj\Release\netcoreapp3.1\SmoothSentence.genruntimeconfig.cache
